@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.CL_2508.15760v1_LiveMCP_101_Stress_Testing_and_Diagnosing_MCP_ena",
+  "project_type": "agent",
+  "completion_time": "2025-08-22T21:12:42.216954",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.CL_2508.15760v1_LiveMCP_101_Stress_Testing_and_Diagnosing_MCP_ena"
+}
